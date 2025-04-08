@@ -1,3 +1,8 @@
+comphack (4.12.3) jammy; urgency=low
+1319)
+
+ -- reinoare <catofulthar@gmail.com>  Wed, 09 Apr 2025 03:36:00 +0900
+
 comphack (4.12.2) xenial; urgency=low
 
   * Improved updater logging
